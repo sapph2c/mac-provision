@@ -1,6 +1,6 @@
 <div align="center">
 
-# MacBook Development Setup Ansible Playbook
+# MacBook Provisioning Ansible Playbook
 
   <img src="https://github.com/sapph2c/README/blob/main/readme.gif" width=450px height=150px></img>
 
@@ -40,9 +40,10 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+GPLv3
 
-Author Information
+Authors
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+Ashley Nikirk (inspired by [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook/tree/master))
+

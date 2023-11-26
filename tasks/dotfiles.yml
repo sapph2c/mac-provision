@@ -1,0 +1,5 @@
+---
+
+- name: Install dotfiles with chezmoi.
+  command: chezmoi init --apply https://github.com/{{ github_username }}/dotfiles.git
+  changed_when: false

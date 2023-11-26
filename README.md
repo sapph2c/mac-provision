@@ -2,7 +2,7 @@
 
 # MacBook Provisioning Ansible Playbook
 
-  <img src="https://github.com/sapph2c/README/blob/main/readme.gif" width=450px height=150px></img>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2c5c7adf-6705-4430-b3f0-ff6929d67265/d2k6iu3-b804258c-0cea-400c-9013-802fc6a50608.jpg" width=330px height=200px></img>
 
   Ansible Playbook to setup my macOS development environment.
 

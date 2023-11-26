@@ -10,6 +10,7 @@ homebrew_installed_packages:
   - pv
   - wget
   - wrk
+  - chezmoi
 
 homebrew_cask_apps:
   - firefox

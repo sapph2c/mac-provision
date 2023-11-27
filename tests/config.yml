@@ -1,4 +1,6 @@
 ---
+configure_dotfiles: true
+
 homebrew_installed_packages:
   - wget
   - chezmoi

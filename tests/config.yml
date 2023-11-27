@@ -1,17 +1,4 @@
 ---
 homebrew_installed_packages:
-  - autoconf
-  - bash-completion
-  - gettext
-  - sqlite
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - pv
   - wget
-  - wrk
   - chezmoi
-
-homebrew_cask_apps:
-  - firefox
-  - licecap
